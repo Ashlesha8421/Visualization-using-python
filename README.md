@@ -13,4 +13,7 @@
  1. Bar plot
  2. Pie chart
 
+# Python Libraries :
+1. matplotlib
+2. Seaborn
                
