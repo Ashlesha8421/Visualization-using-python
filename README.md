@@ -12,6 +12,7 @@
 # Categorical dataset :
  1. Bar plot
  2. Pie chart
+ 3. Cross tab
 
 # Python Libraries :
 1. matplotlib
